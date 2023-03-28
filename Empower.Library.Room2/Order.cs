@@ -41,7 +41,7 @@
 			}
 
 			name = orderValue;
-            suffix = " from room 'ABugFromRoom2'";
+            suffix = " from room 'HABRoom2'";
         }
 
         /// <summary>
